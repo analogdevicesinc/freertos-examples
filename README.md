@@ -19,14 +19,14 @@ The following processors are supported by this repository:
 Other Analog Devices processors may support FreeRTOS, but are not part of the CrossCore Embedded Studio Add-In product. Please refer to the documentation for these specific processors for more details.
 
 ## Branch Information
-The examples for all processors reside on a branch corresponding to the appropriate FreeRTOS Add-In version number i.e. examples-0.9.1.
-For a list of all branches available issue the git command: git branch -a
-The **master** branch shall contain no code.
+The examples for all processors reside on a branch corresponding to the appropriate FreeRTOS Add-In version number i.e. examples-0.9.1.\
+For a list of all branches available issue the git command: git branch -a\
+The **main** branch shall contain no code.\
 
 ## Licensing Information
 The licensing information for the contents of this repository are located within the specific software branches within the repository. This ensures that the licensing information is correct for the given version of FreeRTOS and the port for a specific processor.
 
 ## Support and Help
-Support for FreeRTOS on Analog Devices processors is provided by the Engineer Zone community forum.
-For support related to FreeRTOS please visit [FreeRTOS Engineer Zone](https://ez.analog.com/dsp/software-and-development-tools/freertos/).
+Support for FreeRTOS on Analog Devices processors is provided by the Engineer Zone community forum.\
+For support related to FreeRTOS please visit [FreeRTOS Engineer Zone](https://ez.analog.com/dsp/software-and-development-tools/freertos/).\
 For support related to CrossCore Embedded Studio please visit [CCES Engineer Zone](https://ez.analog.com/dsp/software-and-development-tools/cces/)
